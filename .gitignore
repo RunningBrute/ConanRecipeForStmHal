@@ -1,0 +1,22 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Conan
+conan.lock
+conanfile.txt
+conanfile.py
+
+# executable files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# user files
+*.user
+*.suo
+*.swp
