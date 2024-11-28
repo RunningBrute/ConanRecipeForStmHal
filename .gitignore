@@ -4,11 +4,6 @@ CMakeCache.txt
 cmake_install.cmake
 Makefile
 
-# Conan
-conan.lock
-conanfile.txt
-conanfile.py
-
 # executable files
 *.o
 *.a
